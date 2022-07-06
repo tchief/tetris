@@ -6,6 +6,8 @@
 ## Demo collaborative
 [demo-collaborative.webm](https://user-images.githubusercontent.com/729374/177655489-74336b78-3800-4cf1-8288-b24fe97b5d91.webm)
 
+[demo-4.webm](https://user-images.githubusercontent.com/729374/177657575-974a9b3b-7b6f-4283-a8e9-7b6707a457d8.webm)
+
 ## Demo web app
 [wall-1.webm](https://user-images.githubusercontent.com/729374/176908627-ac2580ea-cc3b-4b9e-a754-56543cb1c2b5.webm)
 
